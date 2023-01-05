@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MSHarish004
 - 👀 I’m interested in coding ,software,web developing,android programing
-- 🌱 I’m currently learning python,java
+- 🌱 I’m skilled in python,java and certified in C,C++
 - 💞️ I’m looking to collaborate on web and android developing
 - 📫 How to reach me saiharish380@gmail.com
 
