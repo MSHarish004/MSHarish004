@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Competitive Programming**
 
-- 📫 How to reach me **https://www.linkedin.com/in/saiharish-m-b567b9235/**
+- 📫 How to reach me **www.linkedin.com/in/saiharish-m-b567b9235/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
