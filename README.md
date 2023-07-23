@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+- ![](https://komarev.com/ghpvc/?username=MSHarish004&label=PROFILE+VIEWS&style=plastic)
+
 
 
 
