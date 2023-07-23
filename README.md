@@ -1,5 +1,7 @@
-### Hi there 👋
-### My name is Saiharish 
+### Hi there 👋 I am  Saiharish
+#### A Frontend Developer
+#### Competitive Programmer
+#### Data Science and Electronic Student
 
 
 **MSHarish004/MSHarish004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
