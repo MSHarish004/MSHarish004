@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact 
- ## ![](https://komarev.com/ghpvc/?username=MSHarish004&label=PROFILE+VIEWS&style=plastic):(
+- ⚡ Fun fact :(
+ ## ![](https://komarev.com/ghpvc/?username=MSHarish004&label=PROFILE+VIEWS&style=plastic)
 
 
 
