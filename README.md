@@ -4,7 +4,7 @@
 #### Data Science and Electronic Student
 
 
-<!--**MSHarish004/MSHarish004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**MSHarish004/MSHarish004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #### 👯 I’m looking to collaborate on Data science,machine learning,web developement projects.
 Here are some ideas to get you started:
 
