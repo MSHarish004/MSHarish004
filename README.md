@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **MSHarish004/MSHarish004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![](https://leetcard.jacoblin.cool/MSHarish004?ext=heatmap)
 
--->
+
 
