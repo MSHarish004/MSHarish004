@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saiharish</h1>
-<h3 align="center">A Frontend Developer
- Competitive Programmer 
+<h3 align="center"><p>A Frontend Developer</p>
+ <p>Competitive Programmer </p>
  Data Science and Electronic Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msharish004&label=Profile%20views&color=0e75b6&style=flat" alt="msharish004" /> </p>
