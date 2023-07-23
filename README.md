@@ -68,7 +68,9 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 -->
+## My Leetcode Stats
 
-##My Leetcode Stats
+
+
 ![](https://leetcard.jacoblin.cool/MSHarish004?ext=heatmap)
 
