@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saiharish</h1>
-<h3 align="center"><p>A Frontend Developer</p>
+<h3 align="center"><p>Frontend Developer</p>
  <p>Competitive Programmer </p>
  Data Science and Electronic Student</h3>
 
