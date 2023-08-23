@@ -3,6 +3,13 @@
  <p>Competitive Programmer </p>
  Data Science and Electronic Student</h3>
 
+<p align="center">
+
+ <img src="https://github.com/MSHarish004/resources/blob/main/Intro.gif" alt="Hi, I'm SAIHARISH 👋 I'm a Frontend developer 🚀 and  Competetive Programmer I ❤️ Happy coding ❤️">
+</p>
+
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msharish004&label=Profile%20views&color=0e75b6&style=flat" alt="msharish004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msharish004" alt="msharish004" /></a> </p>
