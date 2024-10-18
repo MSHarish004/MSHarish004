@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saiharish</h1>
 <h3 align="center"><p>Frontend Developer</p>
  <p>Competitive Programmer </p>
- Data Science and Electronic Student</h3>
+ Tech enthusiast</h3>
 
 
 
